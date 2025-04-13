@@ -47,7 +47,7 @@ body {
 }
 
 .header {
-    background-image: url("/static/imgs/header/cerebro.png");
+    background-image: url("/static/imgs/header/background.jpeg");
     background-position: center center;
     background-size: cover;
     height: 400px;
